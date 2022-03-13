@@ -3,12 +3,12 @@
 # Description
 The application is used to check the weather in major cities
 
-#Build With
+# Built With
 - HTML
 - CSS
 - JS
 
-#Website Link
+# Website Link
 https://difrancesco1.github.io/difrancesco-weather-near-you/
 
 
