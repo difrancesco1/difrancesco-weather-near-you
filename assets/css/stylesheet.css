@@ -14,17 +14,17 @@
     font-size: 32px;
   }
   
-.clear-storage {
-  background-color: blueviolet;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  margin-top: 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 10px;
-}
+  .clear-storage {
+    background-color: blueviolet;
+    border: none;
+    color: white;
+    padding: 10px 28px;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+  }
   .search-container {
     display: flex;
     flex-direction: row;
