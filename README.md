@@ -4,9 +4,9 @@
 The application is used to check the weather in major cities
 
 #Build With
--HTML
--CSS
--JS
+- HTML
+- CSS
+- JS
 
 #Website Link
 https://difrancesco1.github.io/difrancesco-weather-near-you/
